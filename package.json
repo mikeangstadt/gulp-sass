@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "gulp-util": "^3.0",
-    "node-sass": "mikeangstadt/node-sass#bacd8a4169e056f202777fff9c99ead239a0b31d",
+    "node-sass": "mikeangstadt/node-sass#cbanc",
     "object-assign": "^2.0.0",
     "through2": "^0.6.3",
     "vinyl-sourcemaps-apply": "~0.1.1"
